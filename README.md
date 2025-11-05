@@ -143,11 +143,13 @@ To contribute:
 ---
 
 ## 📸 Screenshots
+
+| Search Page | Search Results |
 |------------|-------------|
 | ![Search](login.png) | ![Search Results](register.png) |
 
 ### Main Application Interface
-| Dashboard | Music Player |
+| Price Filter | Price filter |
 |-----------|--------------|
 | ![Ordered by lowest price](dashboard.png) | ![Ordered by highest price](player.png) |
 
