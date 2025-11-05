@@ -148,7 +148,7 @@ To contribute:
 | ![Search](search.png) | ![Search Results](search_results.png) |
 
 ### Main Application Interface
-| Price Filter | Price filter |
+| Price Filter - Lowest to Highest | Price filter - Highest to Lowest |
 |-----------|--------------|
 | ![Ordered by lowest price](price_filter_1.png) | ![Ordered by highest price](price_filter_2.png) |
 
