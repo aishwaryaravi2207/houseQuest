@@ -156,7 +156,4 @@ To contribute:
 
 Developed with ❤️ by **Aishwarya Ravichandran**  
 _Last Updated: November 2025_
-shortest computed distance.  
-4. Combine with price filter logic for optimal results.  
-
 
