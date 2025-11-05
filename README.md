@@ -1,6 +1,6 @@
 # 🏠 HouseQuest
 
-A full-stack web application built using Java technologies that helps users find the **nearest and most affordable houses** using **Dijkstra’s shortest path algorithm**. The system intelligently ranks results based on **distance** and **price**, offering powerful search and filtering features.
+A full-stack web application built using Java technologies that helps users find the **nearest and most affordable houses** using **Dijkstra’s shortest path algorithm**. The system intelligently ranks results by **distance** and **price**, offering powerful search and filtering capabilities.
 
 ---
 
@@ -19,7 +19,7 @@ A full-stack web application built using Java technologies that helps users find
 
 ## 🎯 Overview
 
-**HouseQuest** is a dynamic property discovery platform designed to help users find the **best possible house options** near their current location.  
+**HouseQuest** is a dynamic property discovery platform that helps users find the **best possible house options** near their current location.  
 It leverages **Dijkstra’s algorithm** to determine the shortest path to each available house, balancing both **distance** and **price preferences**.  
 Users can easily filter results based on **minimum and maximum price ranges**, making home selection more efficient and data-driven.
 
@@ -145,12 +145,12 @@ To contribute:
 
 | Search Page | Search Results |
 |------------|-------------|
-| ![Search](login.png) | ![Search Results](register.png) |
+| ![Search](search.png) | ![Search Results](search_results.png) |
 
 ### Main Application Interface
 | Price Filter | Price filter |
 |-----------|--------------|
-| ![Ordered by lowest price](dashboard.png) | ![Ordered by highest price](player.png) |
+| ![Ordered by lowest price](price_filter_1.png) | ![Ordered by highest price](price_filter_2.png) |
 
 ---
 
