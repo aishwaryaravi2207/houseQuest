@@ -150,7 +150,7 @@ To contribute:
 ### Main Application Interface
 | Price Filter - Lowest to Highest | Price filter - Highest to Lowest |
 |-----------|--------------|
-| ![Ordered by lowest price](price_filter_1.png) | ![Ordered by highest price](price_filter_2.png) |
+| ![Ordered by lowest price](price_filter_1.png) | ![Ordered by highest price](price_filter_high.png) |
 
 ---
 
