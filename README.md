@@ -116,12 +116,11 @@ The algorithm identifies the shortest path from the user's current location to a
 ---
 
 ## 📱 Usage
-
-1. **Register/Login** — Create a new user account or log in with existing credentials.  
-2. **Enter Location** — Provide your current position as the starting node.  
-3. **Set Price Filters** — Choose minimum and maximum house prices.  
-4. **Find Houses** — View ranked results based on distance and price.  
-5. **View Details** — Click on any house card for location, price, and route details.  
+ 
+1. **Enter Location** — Provide your current position as the starting node.  
+2. **Set Price Filters** — Choose minimum and maximum house prices.  
+3. **Find Houses** — View ranked results based on distance and price.  
+4. **View Details** — Click on any house card for location, price, and route details.  
 
 ---
 
